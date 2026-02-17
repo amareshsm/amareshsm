@@ -1,6 +1,6 @@
 ### Hello there 👋 I'm Amaresh
 
-I'm a Frontend Engineer with ~5 years of experience building scalable, performant web applications and reusable UI components using **JavaScript**, **React**, and modern front-end tooling.
+I'm a Frontend Engineer with ~6 years of experience building scalable, performant web applications and reusable UI components using **JavaScript**, **React**, and modern front-end tooling.
 
 ---
 
