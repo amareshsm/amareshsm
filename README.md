@@ -6,12 +6,12 @@ I'm a Frontend Engineer with ~6 years of experience building scalable, performan
 
 ### 💼 What I Do
 
-- 🛠️ Currently working at **Flipkart** as a UI Engineer II  
 - 🚀 Focused on building fast, responsive, and reliable UIs  
 - ⚙️ Experience in performance tuning, monorepo management, and observability tools  
 - 📊 Love turning complex data into clean dashboards and user-friendly interfaces
-
+- ♿ Champion accessibility standards (WCAG), semantic HTML, and advanced keyboard focus management
 ---
+
 
 ### 🌱 Currently Exploring
 
