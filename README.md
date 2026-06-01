@@ -1,24 +1,28 @@
 ### Hello there 👋 I'm Amaresh
 
-I'm a Frontend Engineer with ~6 years of experience building scalable, performant web applications and reusable UI components using **JavaScript**, **React**, and modern front-end tooling.
+I'm a Full-Stack Engineer with ~6 years of experience building scalable web applications across the frontend and backend. I specialize in React, JavaScript, Node.js, and modern web architectures, with a strong focus on performance, developer experience, accessibility, and system reliability.
 
 ---
 
 ### 💼 What I Do
 
-- 🚀 Focused on building fast, responsive, and reliable UIs  
-- ⚙️ Experience in performance tuning, monorepo management, and observability tools  
-- 📊 Love turning complex data into clean dashboards and user-friendly interfaces
-- ♿ Champion accessibility standards (WCAG), semantic HTML, and advanced keyboard focus management
+- 🚀 Build end-to-end web applications using React, Node.js, Express, and modern JavaScript ecosystems
+- ⚙️ Design and develop scalable REST APIs, backend services, and reusable frontend architectures
+- 📊 Transform complex business data into intuitive dashboards and high-performance user experiences
+- 🔍 Improve application reliability through observability, monitoring, and performance optimization
+- 🗄️ Work with databases such as MongoDB and SQL-based systems
+- ♿ Advocate accessibility (WCAG), semantic HTML, and inclusive design principles
+- 🏗️ Collaborate on architecture decisions, system design, and engineering best practices
 ---
 
 
 ### 🌱 Currently Exploring
 
-- MERN Stack – especially enhancing my backend skills  
-- TypeScript – for better scalability and type safety  
-- System Design – to build more robust frontend architectures
-
+- 🤖 Agentic AI – building autonomous workflows using LLMs, tools, and multi-step reasoning
+- 🔍 Retrieval-Augmented Generation (RAG) – document ingestion, vector search, embeddings, and knowledge retrieval
+- 🧠 Generative AI Applications – integrating AI capabilities into modern web applications
+- ⚡ AI Engineering – prompt engineering, evaluation, observability, and production-ready AI systems
+- 🏗️ System Design – designing scalable architectures for both traditional and AI-powered applications
 ---
 
 ### 📫 Let's Connect
@@ -28,7 +32,7 @@ I'm a Frontend Engineer with ~6 years of experience building scalable, performan
 
 ---
 
-> “Clean UI is not just about beauty—it's about clarity, performance, and trust.”
+> “Building software that is scalable, reliable, accessible, and easy to maintain—while leveraging AI thoughtfully to enhance engineering, not replace it.”
 
 
 [![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=10112105&theme=dark)](https://stackoverflow.com/users/10112105/amaresh-s-m)
